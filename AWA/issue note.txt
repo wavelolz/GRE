@@ -1,0 +1,15 @@
+Issue note:
+1. four components needed: thesis, evidence, organization, brevity and clarity
+2. choose one of the position and stick to it
+3. provide argument that is evidence based rather than opinion based
+4. outline the pros and cons before diving into the subject, list the examples
+5. choose the position with which I can provide the strongest support of
+
+
+strctural of the essay
+-- Introduction: which is short and sweet, and contain the thesis about which position to take
+-- Body(support): supporting the position with example, each paragraph narrow down to one main point. Ideally two paragraphs
+	were recommended
+-- Body(counter): don't have to be thoroughly, but just to state that there are some exceptions and we are aware of it,
+	But most of the time, out statement and argument will be true and valid.
+-- Conclusion: try to be very short, and just rephrase the position and result
